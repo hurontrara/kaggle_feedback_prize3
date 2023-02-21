@@ -1,5 +1,8 @@
 # kaggle_feedback_prize3
 Feedback Prize - English Language Learning(Kaggle Competition) 115th (SLIVER MEDAL)
+
+https://www.kaggle.com/competitions/feedback-prize-english-language-learning
+
 # Usages
 * Can use bash.ipynb in colab ( not tested in any local )
 * You can use it by giving options like this.
